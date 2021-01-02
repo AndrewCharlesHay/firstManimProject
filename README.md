@@ -1,1 +1,1 @@
-# firstManimProject
+# My First Manim Project
